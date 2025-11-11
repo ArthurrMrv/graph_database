@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+neo4j
+psycopg2-binary
+networkx
+matplotlib
