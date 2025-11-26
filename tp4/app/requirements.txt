@@ -1,0 +1,6 @@
+neo4j
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy

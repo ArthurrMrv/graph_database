@@ -1,0 +1,59 @@
+2025-11-19 10:08:32.887+0000 INFO  Logging config in use: File '/var/lib/neo4j/conf/user-logs.xml'
+2025-11-19 10:08:32.910+0000 INFO  Starting...
+2025-11-19 10:08:33.381+0000 INFO  This instance is ServerId{91136241} (91136241-fe1a-4b00-bfcc-f85ca05ef33b)
+2025-11-19 10:08:33.814+0000 INFO  ======== Neo4j 5.20.0 ========
+2025-11-19 10:08:33.903+0000 INFO  Progress tracking: enabled
+2025-11-19 10:08:33.904+0000 INFO  Memory usage guard: minimum estimate
+2025-11-19 10:08:33.906+0000 INFO  GDS license file: null
+2025-11-19 10:08:33.906+0000 INFO  GDS license state: unlicensed
+2025-11-19 10:08:33.909+0000 INFO  Register GraphDataScience...
+2025-11-19 10:08:33.916+0000 INFO  GraphDataScience registered.
+2025-11-19 10:08:33.916+0000 INFO  Register GraphDataScienceExtras...
+2025-11-19 10:08:33.916+0000 INFO  GraphDataScienceExtras registered.
+2025-11-19 10:08:33.917+0000 INFO  Register MetricsFacade...
+2025-11-19 10:08:33.917+0000 INFO  MetricsFacade registered.
+2025-11-19 10:08:33.917+0000 INFO  Register legacy Task Store/ Registry...
+2025-11-19 10:08:33.918+0000 INFO  Task Store/ Registry registered.
+2025-11-19 10:08:33.918+0000 INFO  Register legacy User Log Registry...
+2025-11-19 10:08:33.918+0000 INFO  User Log Registry registered.
+2025-11-19 10:08:33.982+0000 INFO  GDS compatibility: for Neo4j Settings 5.x -- available, for Neo4j Settings 4.4 -- not available, selected: Neo4j Settings 5.x
+2025-11-19 10:08:33.983+0000 INFO  GDS compatibility: for Neo4j 4.4 -- not available, for Neo4j 5.11 -- not available, for Neo4j 5.12 -- not available, for Neo4j 5.13 -- not available, for Neo4j 5.14 -- not available, for Neo4j 5.15 -- not available, for Neo4j 5.16 -- not available, for Neo4j 5.17 -- not available, for Neo4j 5.18 -- not available, for Neo4j 5.19 -- not available, for Neo4j 5.20 -- available, selected: Neo4j 5.20
+2025-11-19 10:08:41.248+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage_data/
+2025-11-19 10:08:41.346+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-11-19 10:08:41.722+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-11-19 10:08:41.723+0000 INFO  Remote interface available at http://localhost:7474/
+2025-11-19 10:08:41.725+0000 INFO  id: AC6B122B08D07A02DB73E9F5B69A7A9808697ED609F8EBD5F2F04F885580CF39
+2025-11-19 10:08:41.725+0000 INFO  name: system
+2025-11-19 10:08:41.725+0000 INFO  creationDate: 2025-11-19T10:08:34.371Z
+2025-11-19 10:08:41.725+0000 INFO  Started.
+2025-11-19 10:26:10.403+0000 INFO  Neo4j Server shutdown initiated by request
+2025-11-19 10:26:10.412+0000 INFO  Stopping...
+2025-11-19 10:26:15.628+0000 INFO  Stopped.
+2025-11-19 10:26:42.121+0000 INFO  Logging config in use: File '/var/lib/neo4j/conf/user-logs.xml'
+2025-11-19 10:26:42.129+0000 INFO  Starting...
+2025-11-19 10:26:42.593+0000 INFO  This instance is ServerId{32ec06b7} (32ec06b7-d1f7-46a1-9ef6-d75c13bc9b05)
+2025-11-19 10:26:43.090+0000 INFO  ======== Neo4j 5.20.0 ========
+2025-11-19 10:26:43.184+0000 INFO  Progress tracking: enabled
+2025-11-19 10:26:43.185+0000 INFO  Memory usage guard: minimum estimate
+2025-11-19 10:26:43.186+0000 INFO  GDS license file: null
+2025-11-19 10:26:43.187+0000 INFO  GDS license state: unlicensed
+2025-11-19 10:26:43.190+0000 INFO  Register GraphDataScience...
+2025-11-19 10:26:43.197+0000 INFO  GraphDataScience registered.
+2025-11-19 10:26:43.197+0000 INFO  Register GraphDataScienceExtras...
+2025-11-19 10:26:43.198+0000 INFO  GraphDataScienceExtras registered.
+2025-11-19 10:26:43.198+0000 INFO  Register MetricsFacade...
+2025-11-19 10:26:43.199+0000 INFO  MetricsFacade registered.
+2025-11-19 10:26:43.199+0000 INFO  Register legacy Task Store/ Registry...
+2025-11-19 10:26:43.200+0000 INFO  Task Store/ Registry registered.
+2025-11-19 10:26:43.200+0000 INFO  Register legacy User Log Registry...
+2025-11-19 10:26:43.200+0000 INFO  User Log Registry registered.
+2025-11-19 10:26:43.269+0000 INFO  GDS compatibility: for Neo4j Settings 5.x -- available, for Neo4j Settings 4.4 -- not available, selected: Neo4j Settings 5.x
+2025-11-19 10:26:43.269+0000 INFO  GDS compatibility: for Neo4j 4.4 -- not available, for Neo4j 5.11 -- not available, for Neo4j 5.12 -- not available, for Neo4j 5.13 -- not available, for Neo4j 5.14 -- not available, for Neo4j 5.15 -- not available, for Neo4j 5.16 -- not available, for Neo4j 5.17 -- not available, for Neo4j 5.18 -- not available, for Neo4j 5.19 -- not available, for Neo4j 5.20 -- available, selected: Neo4j 5.20
+2025-11-19 10:26:51.829+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage_data/
+2025-11-19 10:26:51.937+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-11-19 10:26:52.347+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-11-19 10:26:52.347+0000 INFO  Remote interface available at http://localhost:7474/
+2025-11-19 10:26:52.350+0000 INFO  id: DA5CF6D074CA4CFEFA2E55D1380D2F761F9BC95AEF240F377616C744EB210C17
+2025-11-19 10:26:52.350+0000 INFO  name: system
+2025-11-19 10:26:52.350+0000 INFO  creationDate: 2025-11-19T10:26:43.698Z
+2025-11-19 10:26:52.351+0000 INFO  Started.
